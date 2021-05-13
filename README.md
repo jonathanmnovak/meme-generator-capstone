@@ -1,4 +1,4 @@
-# Meme Generator
+# Meme Generator for Udacity's Intermediate Python Nanodegree Capstone
 
 ## Project Overview
 The goal of this project is to build a meme generator that creates a meme given an image and a quote. 
